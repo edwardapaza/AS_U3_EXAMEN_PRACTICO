@@ -30,8 +30,6 @@ La presente auditoría tiene como fin evaluar la seguridad, la eficiencia operat
    🡪 [Anexo G](./evidencias/anexo_g_sin_ambientes.png)
 6. Cobertura limitada de pruebas (tests.sh básicos)  
    🡪 [Anexo H](./evidencias/anexo_h_tests_vacios.png)
-7. Respaldos manuales y sin verificación  
-   🡪 [Anexo I](./evidencias/anexo_i_backup_grep.png)
 
 ---
 
